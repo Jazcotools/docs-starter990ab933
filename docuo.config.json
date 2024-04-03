@@ -3,16 +3,19 @@
   "favicon": "image/favicon.ico",
   "themeConfig": {
     "navbar": {
-      "title": "My project",
-      "logo": "image/logo.png",
+      "title": "Building And Agricultural machine tool",
+      "logo": "https://media-resource.spreading.io/docuo/workspace436/301164556c481f969b276e3c7e28ec34/logo.png",
       "items": [
         {
           "type": "docSidebar",
-          "sidebarIds": ["mySidebar"],
+          "sidebarIds": [
+            "mySidebar"
+          ],
           "label": "Documentation",
           "position": "left"
         }
-      ]
+      ],
+      "iconRedirectUrl": "https://www.jazcotools.com"
     },
     "footer": {
       "logo": "image/logo.png",
